@@ -1,0 +1,18 @@
+body{
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url('../img/numbers_2-wallpaper-1920x1080.jpg');
+  background-size: cover;
+}
+h1,
+p{
+  margin-top: 100px;
+}
+h1{
+  font-size: 3rem;
+}
+#odd{
+  color: #195c11;
+  font-size: 2rem;
+  font-weight: bold;
+}
